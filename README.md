@@ -9,8 +9,4 @@ Spend the month of November writing code that generates a novel of 50k+ words.
 
 ## The Rules
 
-The only rule is that you share at least one novel and also your source code at the end.
-
-## More rules and information, like how to participate
-
-Above mentioned [repo](https://github.com/dariusk/NaNoGenMo-2014).
+The only rule is that you share at least one novel and also your source code at the end. More rules and information, like how to participate in above mentioned [repo](https://github.com/dariusk/NaNoGenMo-2014).

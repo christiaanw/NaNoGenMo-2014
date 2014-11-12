@@ -97,7 +97,7 @@ REGEX = re.compile(r'\r\nLanguage: English\r\n')
 
 if __name__ == '__main__':
 ##    root = os.getcwd()
-    root = '/media/christiaan/Elements/databases/Gutenberg/pgdvd042010'
+    root = '/path/to/unpacked/gutenberg/iso'
     for path, dirs, files in os.walk(root):
         for zfilename in fnmatch.filter(files, '*.ZIP'):
             zfilepath = os.path.join(path, zfilename)
